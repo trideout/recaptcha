@@ -1,6 +1,6 @@
 <?php
 
-namespace Greggilbert\Recaptcha;
+namespace Trideout\Recaptcha;
 
 use Illuminate\Support\Arr;
 

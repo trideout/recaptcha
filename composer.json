@@ -1,25 +1,29 @@
 {
-    "name": "greggilbert/recaptcha",
-    "description": "reCAPTCHA Validator for Laravel 5",
+    "name": "trideout/recaptcha",
+    "description": "reCAPTCHA Validator for Laravel 5/6 Forked from greggilbert/recaptcha",
 	"keywords": ["recaptcha", "captcha", "laravel", "laravel5"],
-	"homepage": "http://github.com/greggilbert/recaptcha",
+	"homepage": "http://github.com/trideout/recaptcha",
 	"license": "MIT",
     "authors": [
         {
             "name": "Greg Gilbert",
             "email": "greg@greg-gilbert.com"
+        },
+        {
+            "name": "Thomas Rideout",
+            "email": "trideout@gmail.com"
         }
     ],
     "require": {
         "php": ">=5.3.0",
-        "illuminate/support": "6.*"
+        "illuminate/support": "5.*|6.*"
     },
     "autoload": {
         "classmap": [
             "src/migrations"
         ],
         "psr-4": {
-            "Greggilbert\\Recaptcha\\": "src/"
+            "Trideout\\Recaptcha\\": "src/"
         }
     },
     "minimum-stability": "dev"
