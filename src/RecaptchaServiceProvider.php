@@ -1,4 +1,4 @@
-<?php namespace Trideout\Recaptcha;
+<?php namespace Greggilbert\Recaptcha;
 
 use Illuminate\Support\ServiceProvider;
 

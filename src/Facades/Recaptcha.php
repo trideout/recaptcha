@@ -1,6 +1,6 @@
 <?php
 
-namespace Trideout\Recaptcha\Facades;
+namespace Greggilbert\Recaptcha\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

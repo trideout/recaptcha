@@ -1,6 +1,6 @@
 <?php
 
-namespace Trideout\Recaptcha\Service;
+namespace Greggilbert\Recaptcha\Service;
 
 interface RecaptchaInterface
 {

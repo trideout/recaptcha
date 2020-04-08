@@ -1,6 +1,6 @@
 <?php
 
-namespace Trideout\Recaptcha\Service;
+namespace Greggilbert\Recaptcha\Service;
 
 /**
  * Handle sending out and receiving a response to validate the captcha
